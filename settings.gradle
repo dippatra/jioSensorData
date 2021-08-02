@@ -1,0 +1,3 @@
+include ':sensoraidlmodule'
+include ':app'
+rootProject.name = "JioSensorData"
